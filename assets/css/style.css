@@ -1,0 +1,17 @@
+.red-fill {
+  fill: red;
+}
+.blue-fill {
+  fill: blue;
+}
+.green-fill {
+  fill: green;
+}
+
+.img-sm {
+  height: 200px;
+}
+
+.img-md {
+  height: 800px;
+}
